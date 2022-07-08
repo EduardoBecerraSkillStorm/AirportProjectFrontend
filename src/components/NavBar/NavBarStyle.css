@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #2a61a5;
+  border: 100px;
+  box-sizing: 100px;
+  color: antiquewhite;
+  font-size: 25px;
+
+}
+
+.pic {
+  max-width: 20%;
+  margin: 0px 0px 0px 10px;
+  height: auto;
+}
+
+.navName {
+  margin: 0px 15px 0px 0px;
+  text-align: right;
+}
